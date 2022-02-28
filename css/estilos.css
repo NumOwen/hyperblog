@@ -1,7 +1,14 @@
 body {
-    text-align: center;
+    color: #333;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aqua;
-    color: deeppink;
 }
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 14px solid #DDD;
+    margin: 0 auto;
+}
+
 
